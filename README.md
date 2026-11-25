@@ -1,6 +1,6 @@
 # Hi, I'm Wilson Cely (`Grogngy`) 👋
 
-**AI Solution Builder · Banking, Finance & IT QA Specialist · Carmel, NY**
+**AI Solution Builder · Banking & Finance Specialist · Carmel, NY**
 
 I combine a background in **Banking, Finance, and IT Quality Assurance** with modern **low-code frameworks, cloud AI platforms, and AI-assisted development workflows** to turn real business problems into working Generative & Agentic AI prototypes.
 
